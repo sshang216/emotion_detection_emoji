@@ -4,10 +4,10 @@
   "true_label": "contempt",
   "predicted_emoji": "😐",
   "predicted_class": 15,
-  "second_emoji": "🙂",
+  "second_emoji": "😏",
   "D1": 0.04994114488363266,
-  "D2": 0.0833776444196701,
-  "margin": 0.033436499536037445,
+  "D2": 0.05841381847858429,
+  "margin": 0.00847267359495163,
   "raw52": {
     "_neutral": 1.190451030197437e-06,
     "browDownLeft": 0.013747923076152802,

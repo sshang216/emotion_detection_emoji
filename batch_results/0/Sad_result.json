@@ -4,10 +4,10 @@
   "true_label": "sad",
   "predicted_emoji": "😐",
   "predicted_class": 15,
-  "second_emoji": "🙂",
+  "second_emoji": "😔",
   "D1": 0.034895218908786774,
-  "D2": 0.07535559684038162,
-  "margin": 0.04046037793159485,
+  "D2": 0.03493228182196617,
+  "margin": 3.706291317939758e-05,
   "raw52": {
     "_neutral": 1.3592173218057724e-06,
     "browDownLeft": 0.008104889653623104,

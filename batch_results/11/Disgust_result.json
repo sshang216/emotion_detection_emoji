@@ -4,10 +4,10 @@
   "true_label": "disgust",
   "predicted_emoji": "😐",
   "predicted_class": 15,
-  "second_emoji": "🙂",
+  "second_emoji": "😔",
   "D1": 0.03658131882548332,
-  "D2": 0.07545074075460434,
-  "margin": 0.03886942192912102,
+  "D2": 0.04119947925209999,
+  "margin": 0.004618160426616669,
   "raw52": {
     "_neutral": 4.491769232117804e-07,
     "browDownLeft": 0.004372919909656048,

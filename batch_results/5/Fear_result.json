@@ -4,10 +4,10 @@
   "true_label": "fear",
   "predicted_emoji": "😐",
   "predicted_class": 15,
-  "second_emoji": "🙂",
+  "second_emoji": "😏",
   "D1": 0.0324896015226841,
-  "D2": 0.07203292101621628,
-  "margin": 0.03954331949353218,
+  "D2": 0.039072588086128235,
+  "margin": 0.006582986563444138,
   "raw52": {
     "_neutral": 1.5423082686538692e-06,
     "browDownLeft": 0.24473679065704346,

@@ -4,10 +4,10 @@
   "true_label": "anger",
   "predicted_emoji": "😐",
   "predicted_class": 15,
-  "second_emoji": "🙂",
+  "second_emoji": "😏",
   "D1": 0.02820064313709736,
-  "D2": 0.07132676243782043,
-  "margin": 0.043126119300723076,
+  "D2": 0.030266469344496727,
+  "margin": 0.0020658262073993683,
   "raw52": {
     "_neutral": 1.4490251487586647e-06,
     "browDownLeft": 0.05451391264796257,

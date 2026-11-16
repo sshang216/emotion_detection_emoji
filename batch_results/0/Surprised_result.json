@@ -4,10 +4,10 @@
   "true_label": "surprised",
   "predicted_emoji": "😐",
   "predicted_class": 15,
-  "second_emoji": "🙂",
+  "second_emoji": "😏",
   "D1": 0.04741637781262398,
-  "D2": 0.08166906982660294,
-  "margin": 0.03425269201397896,
+  "D2": 0.057856325060129166,
+  "margin": 0.010439947247505188,
   "raw52": {
     "_neutral": 1.8668689563128282e-06,
     "browDownLeft": 0.014886848628520966,

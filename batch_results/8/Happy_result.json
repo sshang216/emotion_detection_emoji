@@ -4,10 +4,10 @@
   "true_label": "happy",
   "predicted_emoji": "🙂",
   "predicted_class": 5,
-  "second_emoji": "😐",
+  "second_emoji": "😔",
   "D1": 0.06245935708284378,
-  "D2": 0.0741112157702446,
-  "margin": 0.011651858687400818,
+  "D2": 0.0666343942284584,
+  "margin": 0.004175037145614624,
   "raw52": {
     "_neutral": 1.5142611573537579e-06,
     "browDownLeft": 0.020527342334389687,
